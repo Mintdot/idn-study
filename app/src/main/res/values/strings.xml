@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IDNStudy</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_channel</string>
+    <string name="default_notification_channel_name" translatable="false">Mintdot</string>
+    <string name="main_activity_name">MainActivity</string>
+    <string name="main2_activity_name">Main2Activity</string>
+    <string name="main3_activity_name">Main3Activity</string>
+</resources>
